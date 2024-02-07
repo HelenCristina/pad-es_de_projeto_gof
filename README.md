@@ -1,4 +1,4 @@
-# pad-es_de_projeto_gof
+# padroes_de_projeto_gof
 PADRÕES DE PROJETO
 
 1.	PADRÕES DE CRIAÇÃO
